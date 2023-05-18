@@ -6,10 +6,22 @@ h2{text-align: center;
 font-size: medium;}
 
 .img{
-    text-align: center;
+    text-align: center
 }
 
 .precos { 
     text-align: center;
     color: black;
+}
+
+.cartaz {
+    width: 40%;
+    height: 40%;
+}
+
+.cartaz-todos { display: grid;
+grid-template-columns: 25% 25% 25% 25%;}
+
+.filme{
+    text-align: center;
 }
