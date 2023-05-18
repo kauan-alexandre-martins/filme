@@ -1,9 +1,13 @@
 body{
-    background-color: rgb(177, 20, 20);
+    background-color: rgb(15, 9, 9);
     color: rgb(255, 255, 255);
 }
 h2{text-align: center;
-font-size: medium;}
+font-size: 60px;
+color: brown;} 
+
+    h3{text-align: center;
+        font-size: 30px}
 
 .img{
     text-align: center
@@ -15,8 +19,8 @@ font-size: medium;}
 }
 
 .cartaz {
-    width: 40%;
-    height: 40%;
+    width: 50%;
+    height: 50%;
 }
 
 .cartaz-todos { display: grid;
@@ -24,4 +28,8 @@ grid-template-columns: 25% 25% 25% 25%;}
 
 .filme{
     text-align: center;
+}
+
+.link{color: rgb(153, 0, 255);
+    background-color: rgba(174, 6, 216, 0);
 }
