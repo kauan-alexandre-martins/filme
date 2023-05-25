@@ -7,7 +7,7 @@ font-size: 60px;
 color: brown;} 
 
     h3{text-align: center;
-        font-size: 30px}
+        font-size: 30px;}
 
 .img{
     text-align: center
@@ -31,5 +31,17 @@ grid-template-columns: 25% 25% 25% 25%;}
 }
 
 .link{color: rgb(153, 0, 255);
-    background-color: rgba(174, 6, 216, 0);
+    background-color: rgba(234, 149, 255, 0.836);
+    border-radius: 65px;
 }
+
+.imagem-informacao{
+    width: 10%;
+}
+
+.texto-informacao{
+    color: beige;
+    font-size: 30px;
+    font-family:Orbitron
+}
+
